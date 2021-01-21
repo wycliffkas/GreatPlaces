@@ -11,7 +11,7 @@ React native application for lisiting tour sites
 #### installation
 
 - Clone the repository on the local environment by running:
-  `git clone https://github.com/wycliffkas/Shop.git`
+  `git clone https://github.com/wycliffkas/GreatPlaces.git`
 - Run `npm install` if you use npm or `yarn` if you use yarn inorder to install the dependencies
 - Run `yarn start` to launch the app which will automatically launch the app in the browser.
 
